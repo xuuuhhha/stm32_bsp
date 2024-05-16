@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "rthw.h": "c",
+        "rtthread.h": "c",
+        "usart.h": "c",
+        "stm32f1xx_hal_uart.h": "c"
+    }
+}
